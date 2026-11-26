@@ -5,9 +5,9 @@ il programma deve gestire una Classe alla quale vengono aggregati N Studenti, og
 riferire le medie insufficienti, deve saper estrarre un alunno per un eventuale verifica orale, e deve saper caricare tutti gli studenti che ne fanno parte, mentre la classe Studente deve saper aggiungere un nuovo voto e 
 calcolare la media del singolo alunno.
 
-============================================================================================
+=================================================================================
 ### classe Studente:
-============================================================================================
+=================================================================================
 
 attributi:
 -----------------------------------------------------------
@@ -36,9 +36,9 @@ metodi:
 +calcolaMedia():double| metodo per calcolare la media totale dell'alunno
 
 
-============================================================================================
+=================================================================================
 ### classe Classe:
-============================================================================================
+=================================================================================
 
 attributi:
 -----------------------------------------------------------
